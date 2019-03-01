@@ -16,6 +16,7 @@ public class Git_test_clone {
      */
     public static void main(String[] args) {
         System.out.print("hello");
+        int i =9;
     }
     
 }
