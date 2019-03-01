@@ -17,6 +17,7 @@ public class Lab6_git_test {
     public static void main(String[] args) {
         int i;
         System.out.print("hello");
+        System.out.print("changes to master branch");
         // TODO code application logic here
     }
     
