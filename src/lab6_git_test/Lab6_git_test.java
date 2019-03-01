@@ -18,7 +18,6 @@ public class Lab6_git_test {
         int i;
         System.out.print("hello");
         // TODO code application logic here
-        int a = 5;
     }
     
 }
